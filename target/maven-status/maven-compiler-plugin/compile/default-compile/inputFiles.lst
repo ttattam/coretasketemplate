@@ -1,0 +1,8 @@
+/Users/tomtam/dev/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/Main.java
+/Users/tomtam/dev/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/dao/UserDao.java
+/Users/tomtam/dev/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/dao/UserDaoHibernateImpl.java
+/Users/tomtam/dev/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/dao/UserDaoJDBCImpl.java
+/Users/tomtam/dev/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/model/User.java
+/Users/tomtam/dev/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/service/UserService.java
+/Users/tomtam/dev/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java
+/Users/tomtam/dev/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/util/Util.java
